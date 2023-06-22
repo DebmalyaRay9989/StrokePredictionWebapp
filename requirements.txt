@@ -1,5 +1,6 @@
 numpy
 pandas
+altair
 matplotlib==3.5.1
 scikit-learn==1.0.1
 streamlit==1.3.0
